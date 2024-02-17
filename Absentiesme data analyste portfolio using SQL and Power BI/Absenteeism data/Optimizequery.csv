@@ -1,0 +1,740 @@
+﻿1;"unjustified absence ";30;overweight;7;summer;1;3;289;1;2;1;0;1;0;33;239554;4
+2;Unkown;31;obese;7;summer;1;3;118;1;1;1;0;0;1;50;239554;0
+3;"medical consultation ";31;obese;7;summer;1;4;179;1;0;1;0;0;0;38;239554;2
+4;Diseases of the eye and adnexa;24;healthy;7;summer;1;5;279;1;2;1;1;0;0;39;239554;4
+5;"medical consultation ";30;overweight;7;summer;1;5;289;1;2;1;0;1;0;33;239554;2
+6;"medical consultation ";31;obese;7;summer;1;6;179;1;0;1;0;0;0;38;239554;2
+7;"patient follow-up ";27;overweight;7;summer;1;6;361;1;1;1;0;4;0;28;239554;8
+8;"medical consultation ";23;healthy;7;summer;1;6;260;1;4;1;0;0;0;36;239554;4
+9;Injury, poisoning and certain other consequences of external causes;25;overweight;7;summer;1;2;155;1;2;1;0;0;0;34;239554;40
+10;"patient follow-up ";29;overweight;7;summer;1;2;235;3;1;0;0;1;0;37;239554;8
+11;Certain infectious and parasitic diseases;23;healthy;7;summer;1;2;260;1;4;1;0;0;0;36;239554;8
+12;Certain infectious and parasitic diseases;23;healthy;7;summer;1;3;260;1;4;1;0;0;0;36;239554;8
+13;Diseases of the digestive system;23;healthy;7;summer;1;4;260;1;4;1;0;0;0;36;239554;8
+14;Diseases of the digestive system;31;obese;7;summer;1;4;179;1;0;1;0;0;0;38;239554;1
+15;"medical consultation ";31;obese;7;summer;1;4;179;1;0;1;0;0;0;38;239554;4
+16;Diseases of the genitourinary system;23;healthy;7;summer;1;6;246;1;0;1;0;0;0;41;239554;8
+17;"medical consultation ";31;obese;7;summer;1;6;179;1;0;1;0;0;0;38;239554;2
+18;Factors influencing health status and contact with health services.;31;obese;7;summer;1;2;179;1;0;1;0;0;0;38;239554;8
+19;Diseases of the digestive system;25;overweight;7;summer;1;5;189;1;2;0;0;2;0;33;239554;8
+20;"medical consultation ";32;obese;8;summer;1;4;248;1;2;0;0;1;0;47;205917;2
+21;Diseases of the respiratory system;25;overweight;8;summer;1;4;330;2;0;0;0;0;0;28;205917;8
+22;Diseases of the digestive system;31;obese;8;summer;1;2;179;1;0;1;0;0;0;38;205917;1
+23;Diseases of the musculoskeletal system and connective tissue;27;overweight;8;summer;1;2;361;1;1;1;0;4;0;28;205917;40
+24;"dental consultation ";23;healthy;8;summer;1;6;260;1;4;1;0;0;0;36;205917;4
+25;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;30;overweight;8;summer;1;2;289;1;2;1;0;1;0;33;205917;8
+26;"laboratory examination ";27;overweight;8;summer;1;2;361;1;1;1;0;4;0;28;205917;7
+27;"medical consultation ";30;overweight;8;summer;1;3;289;1;2;1;0;1;0;33;205917;1
+28;"dental consultation ";22;healthy;8;summer;1;4;157;1;0;1;1;0;0;29;205917;4
+29;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;30;overweight;8;summer;1;4;289;1;2;1;0;1;0;33;205917;8
+30;"medical consultation ";31;obese;8;summer;1;6;179;1;0;1;0;0;0;38;205917;2
+31;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;31;obese;8;summer;1;2;179;1;0;1;0;0;0;38;205917;8
+32;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;33;obese;8;summer;1;5;235;1;1;0;1;5;0;48;205917;8
+33;"medical consultation ";29;overweight;8;summer;1;5;235;3;1;0;0;1;0;37;205917;4
+34;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;33;obese;8;summer;1;2;235;1;1;0;1;5;0;48;205917;8
+35;"medical consultation ";31;obese;8;summer;1;2;179;1;0;1;0;0;0;38;205917;2
+36;"medical consultation ";27;overweight;8;summer;1;2;361;1;1;1;0;4;0;28;205917;1
+37;blood donation;30;overweight;8;summer;1;3;289;1;2;1;0;1;0;33;205917;8
+38;Diseases of the digestive system;23;healthy;8;summer;1;5;291;1;0;1;0;0;0;32;205917;4
+39;"dental consultation ";33;obese;8;summer;1;6;235;1;1;0;1;5;0;48;205917;8
+40;"medical consultation ";23;healthy;8;summer;1;6;260;1;4;1;0;0;0;36;205917;4
+41;"medical consultation ";21;healthy;9;fall;1;3;184;1;0;0;0;0;0;27;241476;2
+42;"medical consultation ";28;overweight;9;fall;1;2;118;1;0;0;0;0;0;37;241476;4
+43;"medical consultation ";31;obese;9;fall;1;3;179;1;0;1;0;0;0;38;241476;4
+44;Injury, poisoning and certain other consequences of external causes;38;obese;9;fall;1;3;235;1;1;1;0;0;0;43;241476;8
+45;"medical consultation ";25;overweight;9;fall;1;4;155;1;2;1;0;0;0;34;241476;2
+46;"medical consultation ";28;overweight;9;fall;1;2;118;1;0;0;0;0;0;37;241476;3
+47;"medical consultation ";31;obese;9;fall;1;3;179;1;0;1;0;0;0;38;241476;3
+48;"medical consultation ";25;overweight;9;fall;1;5;291;1;1;1;0;1;0;40;241476;4
+49;"patient follow-up ";23;healthy;9;fall;1;6;260;1;4;1;0;0;0;36;241476;8
+50;Diseases of the genitourinary system;25;overweight;9;fall;4;2;291;1;1;1;0;1;0;40;241476;32
+51;Unkown;23;healthy;9;fall;4;2;260;1;4;1;0;0;1;36;241476;0
+52;Unkown;24;healthy;9;fall;4;2;225;1;1;0;0;2;1;28;241476;0
+53;"medical consultation ";24;healthy;9;fall;4;3;225;1;1;0;0;2;0;28;241476;2
+54;"medical consultation ";28;overweight;9;fall;4;3;118;1;0;0;0;0;0;37;241476;2
+55;Unkown;30;overweight;9;fall;4;3;289;1;2;1;0;1;1;33;241476;0
+56;Unkown;31;obese;9;fall;4;3;118;1;1;1;0;0;1;50;241476;0
+57;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;24;healthy;9;fall;4;4;225;1;1;0;0;2;0;28;241476;3
+58;"medical consultation ";31;obese;9;fall;4;4;179;1;0;1;0;0;0;38;241476;3
+59;Unkown;25;overweight;9;fall;4;4;369;1;3;1;0;0;1;31;241476;0
+60;"medical consultation ";32;obese;9;fall;4;6;248;1;2;0;0;1;0;47;241476;1
+61;"medical consultation ";31;obese;9;fall;4;6;179;1;0;1;0;0;0;38;241476;3
+62;"medical consultation ";23;healthy;9;fall;4;6;260;1;4;1;0;0;0;36;241476;4
+63;"medical consultation ";31;obese;10;fall;4;3;179;1;0;1;0;0;0;38;253465;3
+64;"medical consultation ";28;overweight;10;fall;4;3;118;1;0;0;0;0;0;37;253465;3
+65;Unkown;31;obese;10;fall;4;4;118;1;1;1;0;0;1;50;253465;0
+66;"medical consultation ";19;healthy;10;fall;4;5;179;3;0;0;0;0;0;30;253465;1
+67;"medical consultation ";31;obese;10;fall;4;6;179;1;0;1;0;0;0;38;253465;3
+68;"medical consultation ";24;healthy;10;fall;4;6;225;1;1;0;0;2;0;28;253465;3
+69;"medical consultation ";28;overweight;10;fall;4;3;118;1;0;0;0;0;0;37;253465;3
+70;"medical consultation ";24;healthy;10;fall;4;4;225;1;1;0;0;2;0;28;253465;2
+71;"medical consultation ";32;obese;10;fall;4;4;248;1;2;0;0;1;0;47;253465;2
+72;"medical consultation ";25;overweight;10;fall;4;5;291;1;1;1;0;1;0;40;253465;5
+73;"medical consultation ";31;obese;10;fall;4;4;179;1;0;1;0;0;0;38;253465;8
+74;"medical consultation ";24;healthy;10;fall;4;4;225;1;1;0;0;2;0;28;253465;3
+75;Injury, poisoning and certain other consequences of external causes;23;healthy;10;fall;4;5;260;1;4;1;0;0;0;36;253465;16
+76;Diseases of the genitourinary system;25;overweight;10;fall;4;3;291;1;1;1;0;1;0;40;253465;8
+77;"dental consultation ";24;healthy;10;fall;4;3;225;1;1;0;0;2;0;28;253465;2
+78;"unjustified absence ";30;overweight;10;fall;4;4;289;1;2;1;0;1;0;33;253465;8
+79;"medical consultation ";27;overweight;10;fall;4;6;361;1;1;1;0;4;0;28;253465;1
+80;"dental consultation ";23;healthy;10;fall;4;6;260;1;4;1;0;0;0;36;253465;3
+81;"medical consultation ";31;obese;11;fall;4;5;179;1;0;1;0;0;0;38;306345;1
+82;"medical consultation ";24;healthy;11;fall;4;4;225;1;1;0;0;2;0;28;306345;1
+83;Diseases of the musculoskeletal system and connective tissue;31;obese;11;fall;4;5;179;1;0;1;0;0;0;38;306345;8
+84;Factors influencing health status and contact with health services.;22;healthy;11;fall;4;5;179;2;2;0;1;0;0;40;306345;8
+85;"medical consultation ";25;overweight;11;fall;4;5;291;1;1;1;0;1;0;40;306345;5
+86;Diseases of the respiratory system;25;overweight;11;fall;4;2;155;1;2;1;0;0;0;34;306345;32
+87;"patient follow-up ";25;overweight;11;fall;4;2;189;1;2;0;0;2;0;33;306345;8
+88;Diseases of the genitourinary system;25;overweight;11;fall;4;2;291;1;1;1;0;1;0;40;306345;40
+89;"medical consultation ";24;healthy;11;fall;4;4;225;1;1;0;0;2;0;28;306345;1
+90;Diseases of the nervous system;25;overweight;11;fall;4;6;155;1;2;1;0;0;0;34;306345;8
+91;"medical consultation ";24;healthy;11;fall;4;4;225;1;1;0;0;2;0;28;306345;3
+92;Factors influencing health status and contact with health services.;22;healthy;11;fall;4;4;179;2;2;0;1;0;0;40;306345;8
+93;Diseases of the musculoskeletal system and connective tissue;24;healthy;11;fall;4;6;225;1;1;0;0;2;0;28;306345;3
+94;"dental consultation ";23;healthy;11;fall;4;6;260;1;4;1;0;0;0;36;306345;4
+95;"dental consultation ";32;obese;11;fall;4;2;248;1;2;0;0;1;0;47;306345;1
+96;"dental consultation ";24;healthy;11;fall;4;3;225;1;1;0;0;2;0;28;306345;3
+97;Diseases of the eye and adnexa;30;overweight;11;fall;4;4;289;1;2;1;0;1;0;33;306345;24
+98;"medical consultation ";25;overweight;11;fall;4;5;291;1;1;1;0;1;0;40;306345;3
+99;"medical consultation ";32;obese;12;winter;4;3;248;1;2;0;0;1;0;47;261306;1
+100;Injury, poisoning and certain other consequences of external causes;28;overweight;12;winter;4;3;118;1;0;0;0;0;0;37;261306;64
+101;"medical consultation ";31;obese;12;winter;4;4;118;1;1;1;0;0;0;50;261306;2
+102;"unjustified absence ";29;overweight;12;winter;4;4;235;3;1;0;0;1;0;37;261306;8
+103;"medical consultation ";24;healthy;12;winter;4;5;225;1;1;0;0;2;0;28;261306;2
+104;"unjustified absence ";23;healthy;12;winter;4;6;260;1;4;1;0;0;0;36;261306;8
+105;Injury, poisoning and certain other consequences of external causes;28;overweight;12;winter;4;3;118;1;0;0;0;0;0;37;261306;56
+106;"patient follow-up ";27;overweight;12;winter;4;4;361;1;1;1;0;4;0;28;261306;8
+107;"dental consultation ";24;healthy;12;winter;4;5;225;1;1;0;0;2;0;28;261306;3
+108;"dental consultation ";23;healthy;12;winter;4;6;260;1;4;1;0;0;0;36;261306;3
+109;"medical consultation ";24;healthy;12;winter;4;3;225;1;1;0;0;2;0;28;261306;2
+110;"patient follow-up ";27;overweight;12;winter;4;4;361;1;1;1;0;4;0;28;261306;8
+111;"physiotherapy ";28;overweight;12;winter;4;6;118;1;0;0;0;0;0;37;261306;2
+112;Injury, poisoning and certain other consequences of external causes;23;healthy;12;winter;2;6;246;1;0;1;0;0;0;41;261306;8
+113;"medical consultation ";24;healthy;12;winter;2;6;225;1;1;0;0;2;0;28;261306;2
+114;"medical consultation ";24;healthy;1;winter;2;4;225;1;1;0;0;2;0;28;308593;1
+115;Injury, poisoning and certain other consequences of external causes;28;overweight;1;winter;2;2;118;1;0;0;0;0;0;37;308593;1
+116;"physiotherapy ";28;overweight;1;winter;2;3;118;1;0;0;0;0;0;37;308593;1
+117;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;25;overweight;1;winter;2;3;155;1;2;1;0;0;0;34;308593;8
+118;"physiotherapy ";24;healthy;1;winter;2;4;225;1;1;0;0;2;0;28;308593;2
+119;"medical consultation ";21;healthy;1;winter;2;5;184;1;0;0;0;0;0;27;308593;2
+120;"dental consultation ";24;healthy;1;winter;2;5;225;1;1;0;0;2;0;28;308593;2
+121;"physiotherapy ";24;healthy;1;winter;2;6;225;1;1;0;0;2;0;28;308593;1
+122;"physiotherapy ";28;overweight;1;winter;2;2;118;1;0;0;0;0;0;37;308593;2
+123;"physiotherapy ";24;healthy;1;winter;2;3;225;1;1;0;0;2;0;28;308593;2
+124;"physiotherapy ";28;overweight;1;winter;2;3;118;1;0;0;0;0;0;37;308593;2
+125;"physiotherapy ";28;overweight;1;winter;2;4;118;1;0;0;0;0;0;37;308593;2
+126;"physiotherapy ";28;overweight;1;winter;2;5;118;1;0;0;0;0;0;37;308593;2
+127;"physiotherapy ";28;overweight;1;winter;2;6;118;1;0;0;0;0;0;37;308593;2
+128;"physiotherapy ";28;overweight;1;winter;2;2;118;1;0;0;0;0;0;37;308593;2
+129;"physiotherapy ";28;overweight;1;winter;2;3;118;1;0;0;0;0;0;37;308593;2
+130;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;19;healthy;1;winter;2;3;179;3;0;0;0;0;0;30;308593;8
+131;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;30;overweight;1;winter;2;3;289;1;2;1;0;1;0;33;308593;8
+132;"physiotherapy ";28;overweight;1;winter;2;4;118;1;0;0;0;0;0;37;308593;2
+133;"medical consultation ";21;healthy;1;winter;2;5;184;1;0;0;0;0;0;27;308593;2
+134;"physiotherapy ";28;overweight;1;winter;2;5;118;1;0;0;0;0;0;37;308593;2
+135;"physiotherapy ";28;overweight;1;winter;2;2;118;1;0;0;0;0;0;37;308593;0
+136;"medical consultation ";24;healthy;1;winter;2;3;225;1;1;0;0;2;0;28;308593;1
+137;"patient follow-up ";30;overweight;1;winter;2;5;289;1;2;1;0;1;0;33;308593;3
+138;"medical consultation ";21;healthy;2;winter;2;6;184;1;0;0;0;0;0;27;302585;1
+139;Certain infectious and parasitic diseases;23;healthy;2;winter;2;4;246;1;0;1;0;0;0;41;302585;8
+140;Diseases of the digestive system;31;obese;2;winter;2;4;179;1;0;1;0;0;0;38;302585;8
+141;"dental consultation ";25;overweight;2;winter;2;5;155;1;2;1;0;0;0;34;302585;2
+142;"medical consultation ";25;overweight;2;winter;2;5;189;1;2;0;0;2;0;33;302585;8
+143;"dental consultation ";23;healthy;2;winter;2;6;260;1;4;1;0;0;0;36;302585;2
+144;"patient follow-up ";30;overweight;2;winter;2;6;289;1;2;1;0;1;0;33;302585;8
+145;Diseases of the digestive system;24;healthy;2;winter;2;2;388;1;0;0;0;0;0;50;302585;8
+146;Certain infectious and parasitic diseases;24;healthy;2;winter;2;3;388;1;0;0;0;0;0;50;302585;8
+147;"dental consultation ";24;healthy;2;winter;2;2;225;1;1;0;0;2;0;28;302585;2
+148;"medical consultation ";24;healthy;2;winter;2;3;225;1;1;0;0;2;0;28;302585;2
+149;"medical consultation ";19;healthy;2;winter;2;3;179;3;0;0;0;0;0;30;302585;1
+150;"medical consultation ";21;healthy;2;winter;2;3;184;1;0;0;0;0;0;27;302585;8
+151;"laboratory examination ";24;healthy;2;winter;2;5;225;1;1;0;0;2;0;28;302585;3
+152;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;25;overweight;2;winter;2;2;330;2;0;0;0;0;0;28;302585;8
+153;"medical consultation ";25;overweight;2;winter;2;3;330;2;0;0;0;0;0;28;302585;1
+154;"medical consultation ";24;healthy;2;winter;2;4;225;1;1;0;0;2;0;28;302585;1
+155;Injury, poisoning and certain other consequences of external causes;25;overweight;2;winter;2;5;189;1;2;0;0;2;0;33;302585;8
+156;"dental consultation ";23;healthy;3;spring;2;3;291;1;0;1;0;0;0;32;343253;2
+157;Injury, poisoning and certain other consequences of external causes;23;healthy;3;spring;2;3;260;1;4;1;0;0;0;36;343253;8
+158;Injury, poisoning and certain other consequences of external causes;22;healthy;3;spring;2;3;157;1;0;1;1;0;0;29;343253;3
+159;Congenital malformations, deformations and chromosomal abnormalities;22;healthy;3;spring;2;3;179;2;2;0;1;0;0;40;343253;8
+160;"patient follow-up ";25;overweight;3;spring;2;4;291;1;1;1;0;1;0;40;343253;8
+161;Diseases of the musculoskeletal system and connective tissue;23;healthy;3;spring;2;4;260;1;4;1;0;0;0;36;343253;8
+162;Diseases of the musculoskeletal system and connective tissue;19;healthy;3;spring;2;5;179;3;0;0;0;0;0;30;343253;8
+163;Diseases of the genitourinary system;32;obese;3;spring;2;6;248;1;2;0;0;1;0;47;343253;3
+164;Diseases of the musculoskeletal system and connective tissue;23;healthy;3;spring;2;6;260;1;4;1;0;0;0;36;343253;40
+165;Diseases of the digestive system;22;healthy;3;spring;2;2;179;2;2;0;1;0;0;40;343253;40
+166;Certain infectious and parasitic diseases;25;overweight;3;spring;2;2;155;1;2;1;0;0;0;34;343253;16
+167;"unjustified absence ";23;healthy;3;spring;2;2;260;1;4;1;0;0;0;36;343253;16
+168;Diseases of the musculoskeletal system and connective tissue;25;overweight;3;spring;2;3;155;1;2;1;0;0;0;34;343253;8
+169;Diseases of the nervous system;30;overweight;3;spring;2;5;289;1;2;1;0;1;0;33;343253;8
+170;Diseases of the ear and mastoid process;22;healthy;3;spring;2;5;179;2;2;0;1;0;0;40;343253;8
+171;"dental consultation ";23;healthy;3;spring;2;6;260;1;4;1;0;0;0;36;343253;4
+172;"medical consultation ";24;healthy;3;spring;2;6;225;1;1;0;0;2;0;28;343253;1
+173;Diseases of the genitourinary system;24;healthy;3;spring;2;2;279;1;2;1;1;0;0;39;343253;8
+174;Diseases of the musculoskeletal system and connective tissue;31;obese;3;spring;2;3;179;1;0;1;0;0;0;38;343253;24
+175;"medical consultation ";24;healthy;3;spring;2;4;225;1;1;0;0;2;0;28;343253;2
+176;Diseases of the digestive system;24;healthy;3;spring;3;2;225;1;1;0;0;2;0;28;343253;8
+177;Diseases of the musculoskeletal system and connective tissue;19;healthy;3;spring;3;2;179;3;0;0;0;0;0;30;343253;1
+178;Diseases of the digestive system;24;healthy;3;spring;3;3;225;1;1;0;0;2;0;28;343253;8
+179;Diseases of the digestive system;24;healthy;3;spring;3;4;225;1;1;0;0;2;0;28;343253;16
+180;Diseases of the musculoskeletal system and connective tissue;31;obese;3;spring;3;4;179;1;0;1;0;0;0;38;343253;3
+181;Diseases of the genitourinary system;24;healthy;3;spring;3;5;279;1;2;1;1;0;0;39;343253;16
+182;"dental consultation ";24;healthy;3;spring;3;6;225;1;1;0;0;2;0;28;343253;2
+183;Diseases of the genitourinary system;32;obese;3;spring;3;6;248;1;2;0;0;1;0;47;343253;3
+184;"dental consultation ";24;healthy;3;spring;3;2;225;1;1;0;0;2;0;28;343253;1
+185;"dental consultation ";25;overweight;4;spring;3;4;291;1;1;1;0;1;0;40;326452;1
+186;"medical consultation ";24;healthy;4;spring;3;4;225;1;1;0;0;2;0;28;326452;1
+187;"dental consultation ";25;overweight;4;spring;3;3;155;1;2;1;0;0;0;34;326452;1
+188;Diseases of the musculoskeletal system and connective tissue;23;healthy;4;spring;3;4;246;1;0;1;0;0;0;41;326452;24
+189;"medical consultation ";25;overweight;4;spring;3;5;155;1;2;1;0;0;0;34;326452;1
+190;"dental consultation ";24;healthy;4;spring;3;6;225;1;1;0;0;2;0;28;326452;2
+191;"dental consultation ";23;healthy;4;spring;3;6;260;1;4;1;0;0;0;36;326452;4
+192;Diseases of the musculoskeletal system and connective tissue;31;obese;4;spring;3;4;179;1;0;1;0;0;0;38;326452;24
+193;"medical consultation ";31;obese;4;spring;3;5;118;1;1;1;0;0;0;50;326452;1
+194;"medical consultation ";25;overweight;4;spring;3;6;291;1;1;1;0;1;0;40;326452;3
+195;Diseases of the genitourinary system;23;healthy;4;spring;3;6;246;1;0;1;0;0;0;41;326452;8
+196;"dental consultation ";25;overweight;4;spring;3;6;291;1;1;1;0;1;0;40;326452;1
+197;"dental consultation ";32;obese;4;spring;3;6;248;1;2;0;0;1;0;47;326452;8
+198;Injury, poisoning and certain other consequences of external causes;23;healthy;4;spring;3;6;260;1;4;1;0;0;0;36;326452;56
+199;Injury, poisoning and certain other consequences of external causes;30;overweight;4;spring;3;3;289;1;2;1;0;1;0;33;326452;8
+200;Diseases of the skin and subcutaneous tissue;25;overweight;4;spring;3;4;155;1;2;1;0;0;0;34;326452;24
+201;Injury, poisoning and certain other consequences of external causes;21;healthy;4;spring;3;4;378;1;2;0;1;4;0;36;326452;8
+202;Diseases of the musculoskeletal system and connective tissue;30;overweight;4;spring;3;5;289;1;2;1;0;1;0;33;326452;16
+203;Diseases of the eye and adnexa;29;overweight;4;spring;3;6;235;3;1;0;0;1;0;37;326452;3
+204;Unkown;33;obese;4;spring;3;2;235;1;1;0;1;5;1;48;326452;0
+205;Diseases of the musculoskeletal system and connective tissue;30;overweight;5;spring;3;4;289;1;2;1;0;1;0;33;378884;8
+206;"dental consultation ";25;overweight;5;spring;3;5;155;1;2;1;0;0;0;34;378884;2
+207;"dental consultation ";25;overweight;5;spring;3;2;155;1;2;1;0;0;0;34;378884;1
+208;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;31;obese;5;spring;3;3;179;1;0;1;0;0;0;38;378884;8
+209;Injury, poisoning and certain other consequences of external causes;24;healthy;5;spring;3;3;225;1;1;0;0;2;0;28;378884;8
+210;Diseases of the eye and adnexa;21;healthy;5;spring;3;4;184;1;0;0;0;0;0;27;378884;4
+211;"dental consultation ";25;overweight;5;spring;3;2;155;1;2;1;0;0;0;34;378884;2
+212;Diseases of the skin and subcutaneous tissue;31;obese;5;spring;3;3;179;1;0;1;0;0;0;38;378884;1
+213;Diseases of the musculoskeletal system and connective tissue;30;overweight;5;spring;3;4;289;1;2;1;0;1;0;33;378884;24
+214;Unkown;24;healthy;5;spring;3;4;279;1;2;1;1;0;1;39;378884;0
+215;Unkown;25;overweight;5;spring;3;4;330;2;0;0;0;0;1;28;378884;0
+216;Unkown;21;healthy;5;spring;3;4;378;1;2;0;1;4;1;36;378884;0
+217;Unkown;24;healthy;5;spring;3;4;388;1;0;0;0;0;1;50;378884;0
+218;Diseases of the digestive system;31;obese;5;spring;3;3;179;1;0;1;0;0;0;38;378884;1
+219;Diseases of the musculoskeletal system and connective tissue;31;obese;5;spring;3;4;118;1;1;1;0;0;0;50;378884;24
+220;"patient follow-up ";27;overweight;5;spring;3;6;361;1;1;1;0;4;0;28;378884;8
+221;Injury, poisoning and certain other consequences of external causes;23;healthy;6;summer;3;2;246;1;0;1;0;0;0;41;377550;8
+222;"patient follow-up ";27;overweight;6;summer;3;2;361;1;1;1;0;4;0;28;377550;8
+223;Diseases of the respiratory system;23;healthy;6;summer;3;3;246;1;0;1;0;0;0;41;377550;24
+224;"medical consultation ";25;overweight;6;summer;3;5;291;1;1;1;0;1;0;40;377550;4
+225;Diseases of the respiratory system;23;healthy;6;summer;3;6;246;1;0;1;0;0;0;41;377550;8
+226;Diseases of the digestive system;31;obese;6;summer;3;2;179;1;0;1;0;0;0;38;377550;8
+227;"medical consultation ";25;overweight;6;summer;3;2;155;1;2;1;0;0;0;34;377550;4
+228;Diseases of the respiratory system;23;healthy;6;summer;3;2;246;1;0;1;0;0;0;41;377550;8
+229;Diseases of the musculoskeletal system and connective tissue;31;obese;6;summer;3;4;118;1;1;1;0;0;0;50;377550;8
+230;Diseases of the musculoskeletal system and connective tissue;29;overweight;6;summer;3;6;235;3;1;0;0;1;0;37;377550;16
+231;"medical consultation ";31;obese;6;summer;3;3;118;1;1;1;0;0;0;50;377550;1
+232;Diseases of the musculoskeletal system and connective tissue;31;obese;6;summer;3;4;118;1;1;1;0;0;0;50;377550;80
+233;"patient follow-up ";21;healthy;6;summer;3;5;378;1;2;0;1;4;0;36;377550;8
+234;Diseases of the digestive system;31;obese;6;summer;3;6;179;1;0;1;0;0;0;38;377550;2
+235;"dental consultation ";36;obese;6;summer;1;2;289;1;0;0;0;2;0;49;377550;2
+236;"dental consultation ";24;healthy;6;summer;1;5;225;1;1;0;0;2;0;28;377550;2
+237;Injury, poisoning and certain other consequences of external causes;25;overweight;7;summer;1;3;155;1;2;1;0;0;0;34;275312;16
+238;Certain infectious and parasitic diseases;31;obese;7;summer;1;4;118;1;1;1;0;0;0;50;275312;8
+239;Mental and behavioural disorders;28;overweight;7;summer;1;6;118;1;0;0;0;0;0;37;275312;8
+240;"unjustified absence ";28;overweight;7;summer;1;6;118;1;0;0;0;0;0;37;275312;4
+241;"unjustified absence ";25;overweight;7;summer;1;3;330;2;0;0;0;0;0;28;275312;8
+242;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;19;healthy;7;summer;1;5;179;3;0;0;0;0;0;30;275312;8
+243;"laboratory examination ";25;overweight;7;summer;1;6;155;1;2;1;0;0;0;34;275312;2
+244;Certain infectious and parasitic diseases;25;overweight;7;summer;1;2;330;2;0;0;0;0;0;28;275312;8
+245;Certain infectious and parasitic diseases;25;overweight;7;summer;1;3;330;2;0;0;0;0;0;28;275312;8
+246;"laboratory examination ";22;healthy;7;summer;1;2;157;1;0;1;1;0;0;29;275312;3
+247;"patient follow-up ";27;overweight;7;summer;1;3;361;1;1;1;0;4;0;28;275312;8
+248;"unjustified absence ";30;overweight;7;summer;1;4;289;1;2;1;0;1;0;33;275312;8
+249;"unjustified absence ";31;obese;7;summer;1;5;179;1;0;1;0;0;0;38;275312;8
+250;Injury, poisoning and certain other consequences of external causes;30;overweight;7;summer;1;2;289;1;2;1;0;1;0;33;275312;32
+251;Injury, poisoning and certain other consequences of external causes;30;overweight;7;summer;1;5;289;1;2;1;0;1;0;33;275312;8
+252;Unkown;23;healthy;7;summer;1;5;260;1;4;1;0;0;1;36;275312;0
+253;Injury, poisoning and certain other consequences of external causes;30;overweight;8;summer;1;6;289;1;2;1;0;1;0;33;265615;8
+254;Injury, poisoning and certain other consequences of external causes;22;healthy;8;summer;1;6;157;1;0;1;1;0;0;29;265615;3
+255;"medical consultation ";30;overweight;8;summer;1;2;289;1;2;1;0;1;0;33;265615;1
+256;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;22;healthy;8;summer;1;3;228;1;2;0;0;1;0;58;265615;8
+257;Diseases of the musculoskeletal system and connective tissue;25;overweight;8;summer;1;5;300;1;2;1;1;1;0;43;265615;1
+258;Diseases of the genitourinary system;25;overweight;8;summer;1;5;300;1;2;1;1;1;0;43;265615;2
+259;"dental consultation ";23;healthy;8;summer;1;6;260;1;4;1;0;0;0;36;265615;4
+260;"medical consultation ";30;overweight;8;summer;1;3;289;1;2;1;0;1;0;33;265615;4
+261;"medical consultation ";32;obese;8;summer;1;4;248;1;2;0;0;1;0;47;265615;1
+262;Diseases of the digestive system;25;overweight;8;summer;1;5;268;2;0;0;0;0;0;33;265615;8
+263;"medical consultation ";19;healthy;8;summer;1;5;179;3;0;0;0;0;0;30;265615;1
+264;Diseases of the musculoskeletal system and connective tissue;31;obese;8;summer;1;5;118;1;1;1;0;0;0;50;265615;3
+265;"laboratory examination ";32;obese;8;summer;1;2;248;1;2;0;0;1;0;47;265615;2
+266;"medical consultation ";29;overweight;8;summer;1;3;235;3;1;0;0;1;0;37;265615;1
+267;"medical consultation ";31;obese;8;summer;1;5;118;1;1;1;0;0;0;50;265615;1
+268;Injury, poisoning and certain other consequences of external causes;29;overweight;8;summer;1;5;235;3;1;0;0;1;0;37;265615;8
+269;Diseases of the ear and mastoid process;27;overweight;8;summer;1;3;361;1;1;1;0;4;0;28;265615;8
+270;Diseases of the nervous system;21;healthy;8;summer;1;4;184;1;0;0;0;0;0;27;265615;8
+271;Diseases of the digestive system;31;obese;9;fall;1;2;179;1;0;1;0;0;0;38;294217;8
+272;"medical consultation ";31;obese;9;fall;1;6;179;1;0;1;0;0;0;38;294217;3
+273;Injury, poisoning and certain other consequences of external causes;30;overweight;9;fall;1;4;289;1;2;1;0;1;0;33;294217;24
+274;Unkown;38;obese;9;fall;1;5;235;1;1;1;0;0;1;43;294217;0
+275;Diseases of the circulatory system;23;healthy;9;fall;1;2;246;1;0;1;0;0;0;41;294217;16
+276;"dental consultation ";25;overweight;9;fall;1;3;291;1;1;1;0;1;0;40;294217;3
+277;Unkown;35;obese;9;fall;1;3;231;1;2;1;0;2;1;39;294217;0
+278;Unkown;23;healthy;9;fall;1;3;291;1;0;1;0;0;1;32;294217;0
+279;Diseases of the musculoskeletal system and connective tissue;31;obese;9;fall;1;4;179;1;0;1;0;0;0;38;294217;8
+280;Diseases of the circulatory system;23;healthy;9;fall;1;4;246;1;0;1;0;0;0;41;294217;32
+281;"medical consultation ";31;obese;9;fall;1;5;179;1;0;1;0;0;0;38;294217;1
+282;"dental consultation ";25;overweight;9;fall;1;6;291;1;1;1;0;1;0;40;294217;4
+283;"dental consultation ";23;healthy;9;fall;1;6;260;1;4;1;0;0;0;36;294217;4
+284;"unjustified absence ";38;obese;9;fall;4;4;235;1;1;1;0;0;0;43;294217;8
+285;"dental consultation ";31;obese;9;fall;4;5;118;1;1;1;0;0;0;50;294217;1
+286;Unkown;38;obese;9;fall;4;5;235;1;1;1;0;0;1;43;294217;0
+287;"dental consultation ";25;overweight;9;fall;4;6;291;1;1;1;0;1;0;40;294217;3
+288;Diseases of the eye and adnexa;25;overweight;9;fall;4;2;291;1;1;1;0;1;0;40;294217;40
+289;Diseases of the musculoskeletal system and connective tissue;31;obese;9;fall;4;2;179;1;0;1;0;0;0;38;294217;8
+290;blood donation;30;overweight;10;fall;4;2;289;1;2;1;0;1;0;33;265017;8
+291;"unjustified absence ";29;overweight;10;fall;4;2;235;3;1;0;0;1;0;37;265017;4
+292;"unjustified absence ";30;overweight;10;fall;4;2;289;1;2;1;0;1;0;33;265017;8
+293;"patient follow-up ";30;overweight;10;fall;4;6;289;1;2;1;0;1;0;33;265017;8
+294;Unkown;31;obese;10;fall;4;6;118;1;1;1;0;0;1;50;265017;0
+295;Unkown;32;obese;10;fall;4;6;248;1;2;0;0;1;1;47;265017;0
+296;Certain infectious and parasitic diseases;19;healthy;10;fall;4;2;179;3;0;0;0;0;0;30;265017;8
+297;Diseases of the eye and adnexa;28;overweight;10;fall;4;2;118;1;0;0;0;0;0;37;265017;3
+298;"patient follow-up ";25;overweight;10;fall;4;2;369;1;3;1;0;0;0;31;265017;8
+299;"dental consultation ";31;obese;10;fall;4;4;179;1;0;1;0;0;0;38;265017;1
+300;Certain infectious and parasitic diseases;19;healthy;10;fall;4;4;179;3;0;0;0;0;0;30;265017;64
+301;Unkown;38;obese;10;fall;4;4;235;1;1;1;0;0;1;43;265017;0
+302;Injury, poisoning and certain other consequences of external causes;30;overweight;10;fall;4;5;289;1;2;1;0;1;0;33;265017;16
+303;"dental consultation ";23;healthy;10;fall;4;6;260;1;4;1;0;0;0;36;265017;3
+304;Unkown;38;obese;10;fall;4;6;235;1;1;1;0;0;1;43;265017;0
+305;"medical consultation ";38;obese;10;fall;4;2;235;1;1;1;0;0;0;43;265017;2
+306;"medical consultation ";38;obese;10;fall;4;2;235;1;1;1;0;0;0;43;265017;2
+307;"dental consultation ";31;obese;10;fall;4;3;118;1;1;1;0;0;0;50;265017;1
+308;"dental consultation ";25;overweight;10;fall;4;3;291;1;1;1;0;1;0;40;265017;4
+309;"medical consultation ";19;healthy;10;fall;4;5;179;3;0;0;0;0;0;30;265017;16
+310;"dental consultation ";31;obese;10;fall;4;5;118;1;1;1;0;0;0;50;265017;1
+311;Diseases of the respiratory system;27;overweight;10;fall;4;2;361;1;1;1;0;4;0;28;265017;8
+312;Unkown;23;healthy;10;fall;4;3;260;1;4;1;0;0;1;36;265017;0
+313;Unkown;25;overweight;10;fall;4;3;291;1;1;1;0;1;1;40;265017;0
+314;Unkown;22;healthy;10;fall;4;3;157;1;0;1;1;0;1;29;265017;0
+315;Certain infectious and parasitic diseases;19;healthy;10;fall;4;4;179;3;0;0;0;0;0;30;265017;5
+316;Diseases of the eye and adnexa;19;healthy;10;fall;4;4;179;3;0;0;0;0;0;30;265017;5
+317;"medical consultation ";31;obese;10;fall;4;5;118;1;1;1;0;0;0;50;265017;1
+318;Diseases of the digestive system;28;overweight;11;fall;4;2;118;1;0;0;0;0;0;37;284031;8
+319;"medical consultation ";32;obese;11;fall;4;2;248;1;2;0;0;1;0;47;284031;2
+320;Diseases of the nervous system;31;obese;11;fall;4;3;179;1;0;1;0;0;0;38;284031;8
+321;"dental consultation ";23;healthy;11;fall;4;6;260;1;4;1;0;0;0;36;284031;3
+322;"medical consultation ";25;overweight;11;fall;4;2;291;1;1;1;0;1;0;40;284031;1
+323;Certain infectious and parasitic diseases;21;healthy;11;fall;4;2;378;1;2;0;1;4;0;36;284031;8
+324;Diseases of the digestive system;25;overweight;11;fall;4;2;155;1;2;1;0;0;0;34;284031;120
+325;"unjustified absence ";38;obese;11;fall;4;2;235;1;1;1;0;0;0;43;284031;8
+326;Unkown;25;overweight;11;fall;4;3;330;2;0;0;0;0;1;28;284031;0
+327;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;29;overweight;11;fall;4;4;235;3;1;0;0;1;0;37;284031;1
+328;Diseases of the digestive system;28;overweight;11;fall;4;4;118;1;0;0;0;0;0;37;284031;3
+329;"laboratory examination ";29;overweight;11;fall;4;5;235;3;1;0;0;1;0;37;284031;2
+330;"dental consultation ";31;obese;11;fall;4;5;179;1;0;1;0;0;0;38;284031;3
+331;Diseases of the musculoskeletal system and connective tissue;23;healthy;11;fall;4;6;246;1;0;1;0;0;0;41;284031;8
+332;Diseases of the skin and subcutaneous tissue;25;overweight;11;fall;4;6;291;1;1;1;0;1;0;40;284031;4
+333;Diseases of the musculoskeletal system and connective tissue;23;healthy;11;fall;4;2;246;1;0;1;0;0;0;41;284031;8
+334;"dental consultation ";31;obese;11;fall;4;3;179;1;0;1;0;0;0;38;284031;1
+335;Diseases of the respiratory system;23;healthy;11;fall;4;4;260;1;4;1;0;0;0;36;284031;8
+336;Pregnancy, childbirth and the puerperium;23;healthy;11;fall;4;6;260;1;4;1;0;0;0;36;284031;8
+337;Unkown;21;healthy;11;fall;4;6;378;1;2;0;1;4;1;36;284031;0
+338;Unkown;24;healthy;11;fall;4;3;279;1;2;1;1;0;1;39;284031;0
+339;"medical consultation ";31;obese;11;fall;4;5;179;1;0;1;0;0;0;38;284031;1
+340;Diseases of the skin and subcutaneous tissue;24;healthy;12;winter;4;2;225;1;1;0;0;2;0;28;236629;3
+341;"dental consultation ";31;obese;12;winter;4;2;179;1;0;1;0;0;0;38;236629;2
+342;"dental consultation ";31;obese;12;winter;4;2;179;1;0;1;0;0;0;38;236629;1
+343;"medical consultation ";29;overweight;12;winter;4;2;235;3;1;0;0;1;0;37;236629;3
+344;"dental consultation ";31;obese;12;winter;4;3;118;1;1;1;0;0;0;50;236629;1
+345;"dental consultation ";23;healthy;12;winter;4;6;260;1;4;1;0;0;0;36;236629;4
+346;Endocrine, nutritional and metabolic diseases;23;healthy;12;winter;4;5;246;1;0;1;0;0;0;41;236629;8
+347;"dental consultation ";31;obese;12;winter;4;5;179;1;0;1;0;0;0;38;236629;1
+348;"dental consultation ";31;obese;12;winter;4;6;179;1;0;1;0;0;0;38;236629;1
+349;"medical consultation ";19;healthy;12;winter;4;3;179;3;0;0;0;0;0;30;236629;1
+350;"laboratory examination ";28;overweight;12;winter;4;3;118;1;0;0;0;0;0;37;236629;8
+351;"laboratory examination ";29;overweight;12;winter;4;5;235;3;1;0;0;1;0;37;236629;2
+352;"dental consultation ";31;obese;12;winter;4;6;179;1;0;1;0;0;0;38;236629;1
+353;Diseases of the musculoskeletal system and connective tissue;38;obese;12;winter;2;3;235;1;1;1;0;0;0;43;236629;8
+354;Diseases of the genitourinary system;29;overweight;12;winter;2;3;235;3;1;0;0;1;0;37;236629;4
+355;"unjustified absence ";23;healthy;12;winter;2;4;260;1;4;1;0;0;0;36;236629;8
+356;"dental consultation ";22;healthy;12;winter;2;2;157;1;0;1;1;0;0;29;236629;2
+357;"dental consultation ";31;obese;12;winter;2;2;179;1;0;1;0;0;0;38;236629;3
+358;Injury, poisoning and certain other consequences of external causes;30;overweight;12;winter;2;2;289;1;2;1;0;1;0;33;236629;8
+359;"medical consultation ";24;healthy;1;winter;2;4;225;1;1;0;0;2;0;28;330061;5
+360;Injury, poisoning and certain other consequences of external causes;28;overweight;1;winter;2;2;118;1;0;0;0;0;0;37;330061;32
+361;"medical consultation ";25;overweight;1;winter;2;2;155;1;2;1;0;0;0;34;330061;2
+362;Diseases of the musculoskeletal system and connective tissue;29;overweight;1;winter;2;3;235;3;1;0;0;1;0;37;330061;1
+363;"medical consultation ";25;overweight;1;winter;2;3;155;1;2;1;0;0;0;34;330061;4
+364;"unjustified absence ";30;overweight;1;winter;2;2;289;1;2;1;0;1;0;33;330061;8
+365;Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism;25;overweight;1;winter;2;4;291;1;1;1;0;1;0;40;330061;8
+366;"unjustified absence ";38;obese;1;winter;2;2;235;1;1;1;0;0;0;43;330061;8
+367;"unjustified absence ";31;obese;1;winter;2;2;118;1;1;1;0;0;0;50;330061;4
+368;"dental consultation ";31;obese;1;winter;2;4;179;1;0;1;0;0;0;38;330061;1
+369;"dental consultation ";31;obese;1;winter;2;6;179;1;0;1;0;0;0;38;330061;1
+370;"dental consultation ";28;overweight;2;winter;2;3;118;1;0;0;0;0;0;37;251818;2
+371;"physiotherapy ";31;obese;2;winter;2;4;179;1;0;1;0;0;0;38;251818;3
+372;Diseases of the eye and adnexa;24;healthy;2;winter;2;4;225;1;1;0;0;2;0;28;251818;1
+373;"patient follow-up ";30;overweight;2;winter;2;6;289;1;2;1;0;1;0;33;251818;3
+374;"dental consultation ";23;healthy;2;winter;2;6;260;1;4;1;0;0;0;36;251818;3
+375;"medical consultation ";31;obese;2;winter;2;6;179;1;0;1;0;0;0;38;251818;3
+376;"physiotherapy ";31;obese;2;winter;2;2;179;1;0;1;0;0;0;38;251818;2
+377;"physiotherapy ";31;obese;2;winter;2;4;179;1;0;1;0;0;0;38;251818;3
+378;Diseases of the respiratory system;31;obese;2;winter;2;5;179;1;0;1;0;0;0;38;251818;8
+379;"unjustified absence ";23;healthy;2;winter;2;5;246;1;0;1;0;0;0;41;251818;8
+380;"physiotherapy ";31;obese;2;winter;2;6;179;1;0;1;0;0;0;38;251818;3
+381;"patient follow-up ";25;overweight;2;winter;2;2;189;1;2;0;0;2;0;33;251818;8
+382;"physiotherapy ";31;obese;2;winter;2;2;179;1;0;1;0;0;0;38;251818;3
+383;"medical consultation ";23;healthy;2;winter;2;3;246;1;0;1;0;0;0;41;251818;2
+384;"medical consultation ";25;overweight;2;winter;2;3;291;1;1;1;0;1;0;40;251818;2
+385;Diseases of the digestive system;22;healthy;2;winter;2;4;157;1;0;1;1;0;0;29;251818;16
+386;"physiotherapy ";31;obese;2;winter;2;4;179;1;0;1;0;0;0;38;251818;3
+387;"physiotherapy ";31;obese;2;winter;2;6;179;1;0;1;0;0;0;38;251818;3
+388;Diseases of the respiratory system;23;healthy;2;winter;2;6;246;1;0;1;0;0;0;41;251818;24
+389;"physiotherapy ";31;obese;2;winter;2;4;179;1;0;1;0;0;0;38;251818;3
+390;"physiotherapy ";31;obese;2;winter;2;6;179;1;0;1;0;0;0;38;251818;3
+391;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;28;overweight;3;spring;2;3;118;1;0;0;0;0;0;37;244387;8
+392;Injury, poisoning and certain other consequences of external causes;23;healthy;3;spring;2;4;246;1;0;1;0;0;0;41;244387;16
+393;"dental consultation ";23;healthy;3;spring;2;6;246;1;0;1;0;0;0;41;244387;2
+394;"dental consultation ";23;healthy;3;spring;2;6;260;1;4;1;0;0;0;36;244387;4
+395;"dental consultation ";31;obese;3;spring;2;2;179;1;0;1;0;0;0;38;244387;2
+396;"patient follow-up ";29;overweight;3;spring;2;2;235;3;1;0;0;1;0;37;244387;8
+397;"patient follow-up ";22;healthy;3;spring;2;3;179;2;2;0;1;0;0;40;244387;8
+398;"patient follow-up ";21;healthy;3;spring;2;3;378;1;2;0;1;4;0;36;244387;8
+399;"dental consultation ";31;obese;3;spring;2;2;179;1;0;1;0;0;0;38;244387;16
+400;"patient follow-up ";27;overweight;3;spring;2;4;361;1;1;1;0;4;0;28;244387;8
+401;Unkown;25;overweight;3;spring;2;4;369;1;3;1;0;0;1;31;244387;0
+402;Factors influencing health status and contact with health services.;29;overweight;3;spring;2;5;235;3;1;0;0;1;0;37;244387;8
+403;"medical consultation ";31;obese;3;spring;3;6;118;1;1;1;0;0;0;50;244387;2
+404;Diseases of the genitourinary system;31;obese;3;spring;3;3;118;1;1;1;0;0;0;50;244387;3
+405;Diseases of the musculoskeletal system and connective tissue;31;obese;3;spring;3;4;118;1;1;1;0;0;0;50;244387;8
+406;Unkown;29;overweight;3;spring;3;5;235;3;1;0;0;1;1;37;244387;0
+407;Unkown;23;healthy;3;spring;3;5;246;1;0;1;0;0;1;41;244387;0
+408;Unkown;31;obese;3;spring;3;5;118;1;1;1;0;0;1;50;244387;0
+409;"dental consultation ";31;obese;3;spring;3;6;179;1;0;1;0;0;0;38;244387;8
+410;"patient follow-up ";30;overweight;3;spring;3;6;289;1;2;1;0;1;0;33;244387;8
+411;Injury, poisoning and certain other consequences of external causes;23;healthy;3;spring;3;2;260;1;4;1;0;0;0;36;244387;8
+412;"dental consultation ";23;healthy;3;spring;3;3;246;1;0;1;0;0;0;41;244387;2
+413;"dental consultation ";31;obese;4;spring;3;4;179;1;0;1;0;0;0;38;239409;4
+414;"dental consultation ";23;healthy;4;spring;3;6;260;1;4;1;0;0;0;36;239409;3
+415;"unjustified absence ";25;overweight;4;spring;3;6;330;2;0;0;0;0;0;28;239409;4
+416;"patient follow-up ";25;overweight;4;spring;3;2;369;1;3;1;0;0;0;31;239409;4
+417;"unjustified absence ";32;obese;4;spring;3;2;248;1;2;0;0;1;0;47;239409;4
+418;"medical consultation ";25;overweight;4;spring;3;4;330;2;0;0;0;0;0;28;239409;8
+419;"dental consultation ";31;obese;4;spring;3;4;179;1;0;1;0;0;0;38;239409;8
+420;"medical consultation ";31;obese;4;spring;3;2;118;1;1;1;0;0;0;50;239409;1
+421;Diseases of the musculoskeletal system and connective tissue;31;obese;4;spring;3;4;118;1;1;1;0;0;0;50;239409;120
+422;"dental consultation ";25;overweight;4;spring;3;6;300;1;2;1;1;1;0;43;239409;8
+423;"dental consultation ";23;healthy;4;spring;3;6;260;1;4;1;0;0;0;36;239409;4
+424;"dental consultation ";31;obese;4;spring;3;2;179;1;0;1;0;0;0;38;239409;4
+425;Diseases of the digestive system;28;overweight;4;spring;3;4;118;1;0;0;0;0;0;37;239409;2
+426;Diseases of the musculoskeletal system and connective tissue;38;obese;5;spring;3;2;235;1;1;1;0;0;0;43;246074;16
+427;"medical consultation ";32;obese;5;spring;3;4;248;1;2;0;0;1;0;47;246074;2
+428;Diseases of the respiratory system;25;overweight;5;spring;3;2;369;1;3;1;0;0;0;31;246074;8
+429;"medical consultation ";19;healthy;5;spring;3;4;179;3;0;0;0;0;0;30;246074;3
+430;"dental consultation ";31;obese;5;spring;3;4;179;1;0;1;0;0;0;38;246074;4
+431;"medical consultation ";27;overweight;5;spring;3;5;361;1;1;1;0;4;0;28;246074;1
+432;"dental consultation ";23;healthy;5;spring;3;6;260;1;4;1;0;0;0;36;246074;3
+433;Diseases of the digestive system;22;healthy;5;spring;3;2;179;2;2;0;1;0;0;40;246074;2
+434;Diseases of the ear and mastoid process;22;healthy;5;spring;3;2;179;2;2;0;1;0;0;40;246074;3
+435;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;22;healthy;5;spring;3;4;228;1;2;0;0;1;0;58;246074;8
+436;"laboratory examination ";24;healthy;5;spring;3;4;225;1;1;0;0;2;0;28;246074;3
+437;Diseases of the musculoskeletal system and connective tissue;25;overweight;5;spring;3;6;330;2;0;0;0;0;0;28;246074;8
+438;"laboratory examination ";19;healthy;5;spring;3;2;179;3;0;0;0;0;0;30;246074;2
+439;"dental consultation ";28;overweight;5;spring;3;2;118;1;0;0;0;0;0;37;246074;1
+440;Certain infectious and parasitic diseases;29;overweight;5;spring;3;2;235;3;1;0;0;1;0;37;246074;8
+441;"medical consultation ";19;healthy;5;spring;3;4;179;3;0;0;0;0;0;30;246074;3
+442;"medical consultation ";28;overweight;6;summer;3;2;118;1;0;0;0;0;0;37;253957;3
+443;"dental consultation ";31;obese;6;summer;3;2;179;1;0;1;0;0;0;38;253957;3
+444;"dental consultation ";28;overweight;6;summer;3;3;118;1;0;0;0;0;0;37;253957;2
+445;"medical consultation ";24;healthy;6;summer;3;5;225;1;1;0;0;2;0;28;253957;4
+446;"dental consultation ";23;healthy;6;summer;3;6;260;1;4;1;0;0;0;36;253957;4
+447;Unkown;31;obese;6;summer;3;6;179;1;0;1;0;0;1;38;253957;0
+448;Diseases of the musculoskeletal system and connective tissue;25;overweight;6;summer;3;2;291;1;1;1;0;1;0;40;253957;40
+449;"dental consultation ";31;obese;6;summer;3;2;179;1;0;1;0;0;0;38;253957;24
+450;"dental consultation ";23;healthy;6;summer;3;3;246;1;0;1;0;0;0;41;253957;3
+451;"dental consultation ";31;obese;6;summer;3;2;179;1;0;1;0;0;0;38;253957;4
+452;"unjustified absence ";38;obese;6;summer;3;3;235;1;1;1;0;0;0;43;253957;8
+453;"dental consultation ";31;obese;6;summer;1;2;179;1;0;1;0;0;0;38;253957;2
+454;"medical consultation ";24;healthy;6;summer;1;4;225;1;1;0;0;2;0;28;253957;2
+455;"medical consultation ";31;obese;6;summer;1;4;118;1;1;1;0;0;0;50;253957;2
+456;Mental and behavioural disorders;31;obese;6;summer;1;4;179;1;0;1;0;0;0;38;253957;8
+457;Factors influencing health status and contact with health services.;19;healthy;6;summer;1;4;179;3;0;0;0;0;0;30;253957;2
+458;"dental consultation ";23;healthy;6;summer;1;6;246;1;0;1;0;0;0;41;253957;2
+459;Diseases of the digestive system;25;overweight;6;summer;1;3;330;2;0;0;0;0;0;28;253957;1
+460;Diseases of the musculoskeletal system and connective tissue;29;overweight;6;summer;1;3;235;3;1;0;0;1;0;37;253957;8
+461;"medical consultation ";19;healthy;7;summer;1;5;179;3;0;0;0;0;0;30;230290;2
+462;"laboratory examination ";24;healthy;7;summer;1;5;225;1;1;0;0;2;0;28;230290;4
+463;Diseases of the musculoskeletal system and connective tissue;23;healthy;7;summer;1;6;260;1;4;1;0;0;0;36;230290;8
+464;Diseases of the eye and adnexa;25;overweight;7;summer;1;2;268;2;0;0;0;0;0;33;230290;8
+465;"laboratory examination ";25;overweight;7;summer;1;6;330;2;0;0;0;0;0;28;230290;8
+466;"unjustified absence ";28;overweight;7;summer;1;6;118;1;0;0;0;0;0;37;230290;8
+467;"unjustified absence ";23;healthy;7;summer;1;2;260;1;4;1;0;0;0;36;230290;4
+468;"dental consultation ";28;overweight;7;summer;1;3;118;1;0;0;0;0;0;37;230290;8
+469;Pregnancy, childbirth and the puerperium;25;overweight;7;summer;1;2;300;1;2;1;1;1;0;43;230290;8
+470;"medical consultation ";33;obese;7;summer;1;2;235;1;1;0;1;5;0;48;230290;1
+471;"dental consultation ";23;healthy;7;summer;1;3;246;1;0;1;0;0;0;41;230290;2
+472;Diseases of the circulatory system;24;healthy;7;summer;1;3;225;1;1;0;0;2;0;28;230290;112
+473;"dental consultation ";31;obese;7;summer;1;3;179;1;0;1;0;0;0;38;230290;1
+474;"medical consultation ";31;obese;7;summer;1;6;118;1;1;1;0;0;0;50;230290;1
+475;"patient follow-up ";27;overweight;7;summer;1;6;361;1;1;1;0;4;0;28;230290;8
+476;"patient follow-up ";30;overweight;7;summer;1;2;289;1;2;1;0;1;0;33;230290;8
+477;"unjustified absence ";38;obese;7;summer;1;2;235;1;1;1;0;0;0;43;230290;8
+478;"dental consultation ";23;healthy;7;summer;1;3;246;1;0;1;0;0;0;41;230290;2
+479;"dental consultation ";25;overweight;7;summer;1;5;291;1;1;1;0;1;0;40;230290;1
+480;"medical consultation ";24;healthy;7;summer;1;5;279;1;2;1;1;0;0;39;230290;2
+481;"laboratory examination ";31;obese;8;summer;1;5;179;1;0;1;0;0;0;38;249797;4
+482;"laboratory examination ";22;healthy;8;summer;1;2;179;2;2;0;1;0;0;40;249797;1
+483;"dental consultation ";23;healthy;8;summer;1;3;246;1;0;1;0;0;0;41;249797;4
+484;"dental consultation ";28;overweight;8;summer;1;3;118;1;0;0;0;0;0;37;249797;4
+485;"unjustified absence ";30;overweight;8;summer;1;3;289;1;2;1;0;1;0;33;249797;8
+486;"unjustified absence ";38;obese;8;summer;1;3;235;1;1;1;0;0;0;43;249797;8
+487;"dental consultation ";25;overweight;8;summer;1;5;291;1;1;1;0;1;0;40;249797;4
+488;"laboratory examination ";31;obese;8;summer;1;2;179;1;0;1;0;0;0;38;249797;4
+489;"laboratory examination ";22;healthy;8;summer;1;3;179;2;2;0;1;0;0;40;249797;8
+490;"medical consultation ";25;overweight;8;summer;1;5;330;2;0;0;0;0;0;28;249797;16
+491;"medical consultation ";29;overweight;8;summer;1;3;235;3;1;0;0;1;0;37;249797;4
+492;"dental consultation ";23;healthy;8;summer;1;3;246;1;0;1;0;0;0;41;249797;1
+493;"dental consultation ";28;overweight;8;summer;1;3;118;1;0;0;0;0;0;37;249797;5
+494;"dental consultation ";25;overweight;8;summer;1;5;291;1;1;1;0;1;0;40;249797;2
+495;"dental consultation ";23;healthy;8;summer;1;2;260;1;4;1;0;0;0;36;249797;3
+496;"dental consultation ";23;healthy;9;fall;1;3;246;1;0;1;0;0;0;41;261756;1
+497;"dental consultation ";23;healthy;9;fall;1;3;246;1;0;1;0;0;0;41;261756;1
+498;"dental consultation ";28;overweight;9;fall;1;3;118;1;0;0;0;0;0;37;261756;3
+499;"medical consultation ";25;overweight;9;fall;1;3;155;1;2;1;0;0;0;34;261756;2
+500;"dental consultation ";25;overweight;9;fall;1;5;291;1;1;1;0;1;0;40;261756;2
+501;"medical consultation ";19;healthy;9;fall;1;6;179;3;0;0;0;0;0;30;261756;8
+502;"medical consultation ";32;obese;9;fall;1;6;248;1;2;0;0;1;0;47;261756;1
+503;"medical consultation ";31;obese;9;fall;1;2;179;1;0;1;0;0;0;38;261756;4
+504;"medical consultation ";24;healthy;9;fall;1;4;225;1;1;0;0;2;0;28;261756;1
+505;"medical consultation ";19;healthy;9;fall;1;2;179;3;0;0;0;0;0;30;261756;2
+506;"medical consultation ";25;overweight;9;fall;4;3;369;1;3;1;0;0;0;31;261756;8
+507;"patient follow-up ";27;overweight;9;fall;4;3;361;1;1;1;0;4;0;28;261756;8
+508;Endocrine, nutritional and metabolic diseases;36;obese;10;fall;4;5;289;1;0;0;0;2;0;49;284853;1
+509;Diseases of the digestive system;25;overweight;10;fall;4;5;235;3;0;0;0;0;0;32;284853;3
+510;"unjustified absence ";23;healthy;10;fall;4;6;246;1;0;1;0;0;0;41;284853;8
+511;Diseases of the genitourinary system;36;obese;10;fall;4;4;289;1;0;0;0;2;0;49;284853;3
+512;"dental consultation ";25;overweight;10;fall;4;4;291;1;1;1;0;1;0;40;284853;2
+513;"medical consultation ";28;overweight;10;fall;4;3;118;1;0;0;0;0;0;37;284853;2
+514;"medical consultation ";36;obese;10;fall;4;5;289;1;0;0;0;2;0;49;284853;2
+515;"medical consultation ";25;overweight;10;fall;4;6;291;1;1;1;0;1;0;40;284853;1
+516;"medical consultation ";24;healthy;10;fall;4;3;225;1;1;0;0;2;0;28;284853;2
+517;"medical consultation ";25;overweight;10;fall;4;3;369;1;3;1;0;0;0;31;284853;8
+518;"medical consultation ";25;overweight;10;fall;4;3;369;1;3;1;0;0;0;31;284853;3
+519;"medical consultation ";24;healthy;10;fall;4;3;225;1;1;0;0;2;0;28;284853;4
+520;"unjustified absence ";25;overweight;10;fall;4;3;369;1;3;1;0;0;0;31;284853;8
+521;"dental consultation ";31;obese;10;fall;4;4;179;1;0;1;0;0;0;38;284853;3
+522;Certain infectious and parasitic diseases;22;healthy;10;fall;4;4;228;1;2;0;0;1;0;58;284853;1
+523;"medical consultation ";25;overweight;10;fall;4;4;291;1;1;1;0;1;0;40;284853;1
+524;Diseases of the respiratory system;25;overweight;10;fall;4;5;369;1;3;1;0;0;0;31;284853;8
+525;Diseases of the musculoskeletal system and connective tissue;24;healthy;10;fall;4;5;225;1;1;0;0;2;0;28;284853;1
+526;Diseases of the respiratory system;25;overweight;10;fall;4;6;369;1;3;1;0;0;0;31;284853;8
+527;Diseases of the respiratory system;24;healthy;10;fall;4;6;225;1;1;0;0;2;0;28;284853;3
+528;"medical consultation ";25;overweight;10;fall;4;2;189;1;2;0;0;2;0;33;284853;8
+529;Diseases of the nervous system;25;overweight;10;fall;4;2;235;3;0;0;0;0;0;32;284853;8
+530;Diseases of the respiratory system;32;obese;10;fall;4;2;248;1;2;0;0;1;0;47;284853;8
+531;Unkown;24;healthy;10;fall;4;2;225;1;1;0;0;2;1;28;284853;0
+532;Diseases of the musculoskeletal system and connective tissue;24;healthy;10;fall;4;3;225;1;1;0;0;2;0;28;284853;3
+533;Factors influencing health status and contact with health services.;31;obese;11;fall;4;3;179;1;0;1;0;0;0;38;268519;1
+534;"dental consultation ";28;overweight;11;fall;4;4;118;1;0;0;0;0;0;37;268519;3
+535;Neoplasms;25;overweight;11;fall;4;4;330;2;0;0;0;0;0;28;268519;24
+536;"dental consultation ";31;obese;11;fall;4;6;179;1;0;1;0;0;0;38;268519;1
+537;Diseases of the circulatory system;28;overweight;11;fall;4;3;118;1;0;0;0;0;0;37;268519;8
+538;blood donation;30;overweight;11;fall;4;4;289;1;2;1;0;1;0;33;268519;8
+539;Certain infectious and parasitic diseases;25;overweight;11;fall;4;6;235;3;0;0;0;0;0;32;268519;8
+540;"medical consultation ";24;healthy;11;fall;4;6;225;1;1;0;0;2;0;28;268519;4
+541;"patient follow-up ";27;overweight;11;fall;4;3;361;1;1;1;0;4;0;28;268519;8
+542;"dental consultation ";25;overweight;11;fall;4;4;291;1;1;1;0;1;0;40;268519;2
+543;Diseases of the musculoskeletal system and connective tissue;28;overweight;11;fall;4;5;118;1;0;0;0;0;0;37;268519;2
+544;Diseases of the genitourinary system;24;healthy;11;fall;4;5;225;1;1;0;0;2;0;28;268519;3
+545;"dental consultation ";31;obese;11;fall;4;2;179;1;0;1;0;0;0;38;268519;1
+546;"medical consultation ";28;overweight;11;fall;4;2;118;1;0;0;0;0;0;37;268519;8
+547;Diseases of the ear and mastoid process;28;overweight;11;fall;4;3;118;1;0;0;0;0;0;37;268519;8
+548;"medical consultation ";24;healthy;11;fall;4;3;225;1;1;0;0;2;0;28;268519;2
+549;Unkown;25;overweight;11;fall;4;3;291;1;1;1;0;1;1;40;268519;0
+550;Unkown;30;overweight;11;fall;4;4;289;1;2;1;0;1;1;33;268519;0
+551;Diseases of the genitourinary system;32;obese;11;fall;4;5;248;1;2;0;0;1;0;47;268519;4
+552;Unkown;38;obese;11;fall;4;5;235;1;1;1;0;0;1;43;268519;0
+553;"medical consultation ";24;healthy;11;fall;4;6;225;1;1;0;0;2;0;28;268519;2
+554;"unjustified absence ";25;overweight;11;fall;4;6;369;1;3;1;0;0;0;31;268519;8
+555;"dental consultation ";27;overweight;11;fall;4;2;361;1;1;1;0;4;0;28;268519;2
+556;Diseases of the musculoskeletal system and connective tissue;31;obese;12;winter;4;3;179;1;0;1;0;0;0;38;280549;32
+557;"dental consultation ";25;overweight;12;winter;4;4;291;1;1;1;0;1;0;40;280549;1
+558;"medical consultation ";24;healthy;12;winter;4;4;225;1;1;0;0;2;0;28;280549;3
+559;Diseases of the musculoskeletal system and connective tissue;19;healthy;12;winter;4;6;179;3;0;0;0;0;0;30;280549;1
+560;"medical consultation ";24;healthy;12;winter;4;6;225;1;1;0;0;2;0;28;280549;3
+561;"medical consultation ";24;healthy;12;winter;4;4;225;1;1;0;0;2;0;28;280549;3
+562;Diseases of the genitourinary system;27;overweight;12;winter;4;5;361;1;1;1;0;4;0;28;280549;4
+563;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;22;healthy;12;winter;4;6;179;2;2;0;1;0;0;40;280549;2
+564;"unjustified absence ";38;obese;12;winter;4;6;235;1;1;1;0;0;0;43;280549;8
+565;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;21;healthy;12;winter;4;2;233;2;1;1;0;8;0;31;280549;8
+566;Diseases of the musculoskeletal system and connective tissue;19;healthy;12;winter;4;3;179;3;0;0;0;0;0;30;280549;16
+567;"medical consultation ";24;healthy;12;winter;4;3;225;1;1;0;0;2;0;28;280549;2
+568;"medical consultation ";24;healthy;12;winter;4;5;225;1;1;0;0;2;0;28;280549;3
+569;"medical consultation ";24;healthy;12;winter;4;2;225;1;1;0;0;2;0;28;280549;2
+570;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;25;overweight;12;winter;2;3;155;1;2;1;0;0;0;34;280549;80
+571;Diseases of the skin and subcutaneous tissue;19;healthy;1;winter;2;2;179;3;0;0;0;0;0;30;313532;24
+572;Diseases of the skin and subcutaneous tissue;19;healthy;1;winter;2;5;179;3;0;0;0;0;0;30;313532;16
+573;"laboratory examination ";22;healthy;1;winter;2;5;179;2;2;0;1;0;0;40;313532;2
+574;"laboratory examination ";22;healthy;1;winter;2;6;179;2;2;0;1;0;0;40;313532;2
+575;Diseases of the musculoskeletal system and connective tissue;19;healthy;1;winter;2;2;179;3;0;0;0;0;0;30;313532;3
+576;"laboratory examination ";22;healthy;1;winter;2;4;179;2;2;0;1;0;0;40;313532;2
+577;Diseases of the respiratory system;36;obese;1;winter;2;5;289;1;0;0;0;2;0;49;313532;8
+578;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;22;healthy;1;winter;2;6;179;2;2;0;1;0;0;40;313532;3
+579;"physiotherapy ";19;healthy;1;winter;2;2;179;3;0;0;0;0;0;30;313532;2
+580;Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified;25;overweight;1;winter;2;3;155;1;2;1;0;0;0;34;313532;8
+581;"physiotherapy ";19;healthy;1;winter;2;4;179;3;0;0;0;0;0;30;313532;2
+582;"physiotherapy ";31;obese;1;winter;2;4;179;1;0;1;0;0;0;38;313532;3
+583;Diseases of the musculoskeletal system and connective tissue;30;overweight;1;winter;2;4;289;1;2;1;0;1;0;33;313532;8
+584;"physiotherapy ";31;obese;1;winter;2;5;179;1;0;1;0;0;0;38;313532;3
+585;"physiotherapy ";31;obese;1;winter;2;6;179;1;0;1;0;0;0;38;313532;2
+586;Diseases of the musculoskeletal system and connective tissue;31;obese;2;winter;2;3;179;1;0;1;0;0;0;38;264249;8
+587;"medical consultation ";24;healthy;2;winter;2;3;225;1;1;0;0;2;0;28;264249;3
+588;Certain infectious and parasitic diseases;32;obese;2;winter;2;4;248;1;2;0;0;1;0;47;264249;8
+589;"physiotherapy ";31;obese;2;winter;2;4;179;1;0;1;0;0;0;38;264249;2
+590;"dental consultation ";24;healthy;2;winter;2;5;225;1;1;0;0;2;0;28;264249;3
+591;"physiotherapy ";31;obese;2;winter;2;5;179;1;0;1;0;0;0;38;264249;2
+592;"physiotherapy ";19;healthy;2;winter;2;5;179;3;0;0;0;0;0;30;264249;2
+593;"dental consultation ";28;overweight;2;winter;2;6;225;4;2;1;0;2;0;41;264249;2
+594;"physiotherapy ";31;obese;2;winter;2;6;179;1;0;1;0;0;0;38;264249;2
+595;Injury, poisoning and certain other consequences of external causes;21;healthy;2;winter;2;2;233;2;1;1;0;8;0;31;264249;2
+596;"physiotherapy ";31;obese;2;winter;2;2;179;1;0;1;0;0;0;38;264249;2
+597;Diseases of the eye and adnexa;24;healthy;2;winter;2;3;225;1;1;0;0;2;0;28;264249;8
+598;"physiotherapy ";31;obese;2;winter;2;4;179;1;0;1;0;0;0;38;264249;3
+599;"physiotherapy ";31;obese;2;winter;2;5;179;1;0;1;0;0;0;38;264249;3
+600;"laboratory examination ";24;healthy;2;winter;2;5;225;1;1;0;0;2;0;28;264249;3
+601;Diseases of the musculoskeletal system and connective tissue;19;healthy;2;winter;2;5;179;3;0;0;0;0;0;30;264249;2
+602;"medical consultation ";22;healthy;2;winter;2;6;179;2;2;0;1;0;0;40;264249;2
+603;"physiotherapy ";31;obese;2;winter;2;6;179;1;0;1;0;0;0;38;264249;3
+604;Diseases of the skin and subcutaneous tissue;21;healthy;2;winter;2;4;233;2;1;1;0;8;0;31;264249;3
+605;"physiotherapy ";19;healthy;2;winter;2;4;179;3;0;0;0;0;0;30;264249;2
+606;"physiotherapy ";31;obese;2;winter;2;4;179;1;0;1;0;0;0;38;264249;2
+607;Diseases of the musculoskeletal system and connective tissue;31;obese;2;winter;2;5;179;1;0;1;0;0;0;38;264249;8
+608;"physiotherapy ";31;obese;2;winter;2;6;179;1;0;1;0;0;0;38;264249;2
+609;"laboratory examination ";25;overweight;2;winter;2;2;155;1;2;1;0;0;0;34;264249;5
+610;"laboratory examination ";25;overweight;2;winter;2;2;235;3;0;0;0;0;0;32;264249;3
+611;"physiotherapy ";31;obese;2;winter;2;2;179;1;0;1;0;0;0;38;264249;2
+612;Diseases of the eye and adnexa;24;healthy;2;winter;2;2;225;1;1;0;0;2;0;28;264249;2
+613;"physiotherapy ";31;obese;2;winter;2;3;179;1;0;1;0;0;0;38;264249;2
+614;"medical consultation ";32;obese;2;winter;2;3;248;1;2;0;0;1;0;47;264249;2
+615;"laboratory examination ";24;healthy;2;winter;2;3;225;1;1;0;0;2;0;28;264249;2
+616;"physiotherapy ";31;obese;2;winter;2;4;179;1;0;1;0;0;0;38;264249;2
+617;"physiotherapy ";31;obese;2;winter;2;5;179;1;0;1;0;0;0;38;264249;2
+618;"laboratory examination ";25;overweight;2;winter;2;6;235;3;0;0;0;0;0;32;264249;2
+619;"physiotherapy ";31;obese;3;spring;2;2;179;1;0;1;0;0;0;38;222196;2
+620;"medical consultation ";32;obese;3;spring;2;2;248;1;2;0;0;1;0;47;222196;2
+621;"laboratory examination ";22;healthy;3;spring;2;3;228;1;2;0;0;1;0;58;222196;3
+622;"laboratory examination ";32;obese;3;spring;2;3;248;1;2;0;0;1;0;47;222196;3
+623;Diseases of the skin and subcutaneous tissue;22;healthy;3;spring;2;3;228;1;2;0;0;1;0;58;222196;112
+624;"physiotherapy ";31;obese;3;spring;2;4;179;1;0;1;0;0;0;38;222196;2
+625;"physiotherapy ";24;healthy;3;spring;2;5;225;1;1;0;0;2;0;28;222196;2
+626;"physiotherapy ";31;obese;3;spring;2;5;179;1;0;1;0;0;0;38;222196;3
+627;"laboratory examination ";24;healthy;3;spring;2;5;225;1;1;0;0;2;0;28;222196;2
+628;"physiotherapy ";19;healthy;3;spring;2;6;179;3;0;0;0;0;0;30;222196;3
+629;"laboratory examination ";25;overweight;3;spring;2;2;235;3;0;0;0;0;0;32;222196;3
+630;Injury, poisoning and certain other consequences of external causes;27;overweight;3;spring;2;2;361;1;1;1;0;4;0;28;222196;8
+631;Diseases of the musculoskeletal system and connective tissue;31;obese;3;spring;2;3;179;1;0;1;0;0;0;38;222196;8
+632;"physiotherapy ";31;obese;3;spring;2;4;179;1;0;1;0;0;0;38;222196;2
+633;"physiotherapy ";31;obese;3;spring;2;5;179;1;0;1;0;0;0;38;222196;3
+634;"physiotherapy ";19;healthy;3;spring;2;6;179;3;0;0;0;0;0;30;222196;2
+635;Diseases of the respiratory system;31;obese;3;spring;2;2;179;1;0;1;0;0;0;38;222196;4
+636;Diseases of the musculoskeletal system and connective tissue;32;obese;3;spring;2;2;248;1;2;0;0;1;0;47;222196;2
+637;"physiotherapy ";31;obese;3;spring;2;2;179;1;0;1;0;0;0;38;222196;3
+638;Diseases of the eye and adnexa;24;healthy;3;spring;2;2;225;1;1;0;0;2;0;28;222196;8
+639;"physiotherapy ";31;obese;3;spring;2;3;179;1;0;1;0;0;0;38;222196;2
+640;"medical consultation ";30;overweight;3;spring;2;4;289;1;2;1;0;1;0;33;222196;8
+641;"laboratory examination ";22;healthy;3;spring;2;4;228;1;2;0;0;1;0;58;222196;2
+642;"physiotherapy ";31;obese;3;spring;2;4;179;1;0;1;0;0;0;38;222196;2
+643;"medical consultation ";32;obese;3;spring;2;5;248;1;2;0;0;1;0;47;222196;3
+644;"physiotherapy ";31;obese;3;spring;2;5;179;1;0;1;0;0;0;38;222196;3
+645;"medical consultation ";19;healthy;3;spring;2;6;179;3;0;0;0;0;0;30;222196;2
+646;"physiotherapy ";31;obese;3;spring;2;6;179;1;0;1;0;0;0;38;222196;3
+647;"physiotherapy ";31;obese;3;spring;3;3;179;1;0;1;0;0;0;38;222196;3
+648;"medical consultation ";25;overweight;3;spring;3;4;118;1;2;1;1;0;0;46;222196;8
+649;Diseases of the musculoskeletal system and connective tissue;25;overweight;3;spring;3;4;155;1;2;1;0;0;0;34;222196;24
+650;"physiotherapy ";31;obese;3;spring;3;4;179;1;0;1;0;0;0;38;222196;3
+651;"physiotherapy ";31;obese;3;spring;3;5;179;1;0;1;0;0;0;38;222196;3
+652;Diseases of the musculoskeletal system and connective tissue;19;healthy;3;spring;3;2;179;3;0;0;0;0;0;30;222196;2
+653;Injury, poisoning and certain other consequences of external causes;30;overweight;3;spring;3;2;289;1;2;1;0;1;0;33;222196;104
+654;"patient follow-up ";25;overweight;3;spring;3;4;369;1;3;1;0;0;0;31;222196;8
+655;Diseases of the musculoskeletal system and connective tissue;24;healthy;4;spring;3;2;225;1;1;0;0;2;0;28;246288;8
+656;Diseases of the respiratory system;28;overweight;4;spring;3;2;118;1;0;0;0;0;0;37;246288;8
+657;Injury, poisoning and certain other consequences of external causes;27;overweight;4;spring;3;3;361;1;1;1;0;4;0;28;246288;8
+658;Injury, poisoning and certain other consequences of external causes;32;obese;4;spring;3;4;248;1;2;0;0;1;0;47;246288;8
+659;Diseases of the musculoskeletal system and connective tissue;25;overweight;4;spring;3;5;189;1;2;0;0;2;0;33;246288;8
+660;"physiotherapy ";19;healthy;4;spring;3;6;179;3;0;0;0;0;0;30;246288;2
+661;Diseases of the eye and adnexa;25;overweight;4;spring;3;2;369;1;3;1;0;0;0;31;246288;24
+662;Certain conditions originating in the perinatal period;22;healthy;4;spring;3;3;179;2;2;0;1;0;0;40;246288;2
+663;"medical consultation ";31;obese;4;spring;3;3;118;1;1;1;0;0;0;50;246288;3
+664;"medical consultation ";27;overweight;4;spring;3;3;361;1;1;1;0;4;0;28;246288;2
+665;Diseases of the respiratory system;28;overweight;4;spring;3;4;118;1;0;0;0;0;0;37;246288;2
+666;"patient follow-up ";29;overweight;4;spring;3;6;235;3;1;0;0;1;0;37;246288;8
+667;"physiotherapy ";19;healthy;4;spring;3;6;179;3;0;0;0;0;0;30;246288;2
+668;Injury, poisoning and certain other consequences of external causes;24;healthy;4;spring;3;2;225;1;1;0;0;2;0;28;246288;8
+669;Certain conditions originating in the perinatal period;25;overweight;4;spring;3;3;235;3;0;0;0;0;0;32;246288;3
+670;"physiotherapy ";19;healthy;4;spring;3;6;179;3;0;0;0;0;0;30;246288;2
+671;"dental consultation ";25;overweight;4;spring;3;3;155;1;2;1;0;0;0;34;246288;4
+672;Injury, poisoning and certain other consequences of external causes;24;healthy;4;spring;3;5;225;1;1;0;0;2;0;28;246288;8
+673;Diseases of the genitourinary system;31;obese;4;spring;3;5;118;1;1;1;0;0;0;50;246288;2
+674;"physiotherapy ";19;healthy;4;spring;3;6;179;3;0;0;0;0;0;30;246288;2
+675;"patient follow-up ";29;overweight;5;spring;3;2;235;3;1;0;0;1;0;37;237656;8
+676;Injury, poisoning and certain other consequences of external causes;28;overweight;5;spring;3;4;225;4;2;1;0;2;0;41;237656;3
+677;"dental consultation ";25;overweight;5;spring;3;4;235;3;0;0;0;0;0;32;237656;2
+678;Diseases of the ear and mastoid process;28;overweight;5;spring;3;4;118;1;0;0;0;0;0;37;237656;3
+679;"unjustified absence ";38;obese;5;spring;3;4;235;1;1;1;0;0;0;43;237656;8
+680;Diseases of the musculoskeletal system and connective tissue;19;healthy;5;spring;3;5;179;3;0;0;0;0;0;30;237656;1
+681;"dental consultation ";25;overweight;5;spring;3;5;291;1;1;1;0;1;0;40;237656;2
+682;Diseases of the genitourinary system;28;overweight;5;spring;3;5;225;4;2;1;0;2;0;41;237656;8
+683;Injury, poisoning and certain other consequences of external causes;25;overweight;5;spring;3;6;300;1;2;1;1;1;0;43;237656;64
+684;"patient follow-up ";28;overweight;5;spring;3;6;225;4;2;1;0;2;0;41;237656;8
+685;"physiotherapy ";19;healthy;5;spring;3;6;179;3;0;0;0;0;0;30;237656;2
+686;"medical consultation ";31;obese;5;spring;3;2;118;1;1;1;0;0;0;50;237656;2
+687;Mental and behavioural disorders;31;obese;5;spring;3;3;118;1;1;1;0;0;0;50;237656;3
+688;"dental consultation ";28;overweight;5;spring;3;3;118;1;0;0;0;0;0;37;237656;1
+689;Unkown;31;obese;5;spring;3;3;118;1;1;1;0;0;1;50;237656;0
+690;"physiotherapy ";19;healthy;5;spring;3;4;179;3;0;0;0;0;0;30;237656;2
+691;Unkown;21;healthy;5;spring;3;4;378;1;2;0;1;4;1;36;237656;0
+692;Certain conditions originating in the perinatal period;22;healthy;5;spring;3;6;179;2;2;0;1;0;0;40;237656;1
+693;Diseases of the respiratory system;25;overweight;5;spring;3;2;155;1;2;1;0;0;0;34;237656;48
+694;Diseases of the respiratory system;25;overweight;5;spring;3;2;235;3;0;0;0;0;0;32;237656;8
+695;"patient follow-up ";25;overweight;5;spring;3;4;291;1;1;1;0;1;0;40;237656;8
+696;Diseases of the respiratory system;22;healthy;5;spring;3;4;179;2;2;0;1;0;0;40;237656;8
+697;Diseases of the nervous system;24;healthy;5;spring;3;4;225;1;1;0;0;2;0;28;237656;3
+698;Diseases of the respiratory system;25;overweight;5;spring;3;5;330;2;0;0;0;0;0;28;237656;8
+699;"medical consultation ";25;overweight;5;spring;3;5;235;3;0;0;0;0;0;32;237656;2
+700;"dental consultation ";25;overweight;5;spring;3;5;291;1;1;1;0;1;0;40;237656;2
+701;"physiotherapy ";19;healthy;5;spring;3;6;179;3;0;0;0;0;0;30;237656;2
+702;Diseases of the eye and adnexa;27;overweight;5;spring;3;2;361;1;1;1;0;4;0;28;237656;8
+703;"medical consultation ";25;overweight;5;spring;3;4;155;1;2;1;0;0;0;34;237656;2
+704;"laboratory examination ";22;healthy;5;spring;3;6;179;2;2;0;1;0;0;40;237656;8
+705;Diseases of the respiratory system;25;overweight;5;spring;3;6;155;1;2;1;0;0;0;34;237656;8
+706;Diseases of the digestive system;24;healthy;5;spring;3;2;225;1;1;0;0;2;0;28;237656;1
+707;Diseases of the eye and adnexa;25;overweight;6;summer;3;4;118;1;2;1;1;0;0;46;275089;8
+708;"physiotherapy ";19;healthy;6;summer;3;4;179;3;0;0;0;0;0;30;275089;3
+709;"unjustified absence ";28;overweight;6;summer;3;6;118;1;0;0;0;0;0;37;275089;8
+710;Diseases of the respiratory system;28;overweight;6;summer;3;4;118;1;0;0;0;0;0;37;275089;8
+711;"patient follow-up ";21;healthy;6;summer;3;5;378;1;2;0;1;4;0;36;275089;8
+712;Injury, poisoning and certain other consequences of external causes;31;obese;6;summer;3;5;118;1;1;1;0;0;0;50;275089;24
+713;Injury, poisoning and certain other consequences of external causes;21;healthy;6;summer;3;6;233;2;1;1;0;8;0;31;275089;8
+714;"physiotherapy ";19;healthy;6;summer;3;6;179;3;0;0;0;0;0;30;275089;2
+715;Unkown;33;obese;6;summer;3;2;235;1;1;0;1;5;1;48;275089;0
+716;Unkown;25;overweight;6;summer;3;2;268;2;0;0;0;0;1;33;275089;0
+717;Injury, poisoning and certain other consequences of external causes;31;obese;6;summer;3;5;118;1;1;1;0;0;0;50;275089;3
+718;Diseases of the musculoskeletal system and connective tissue;19;healthy;6;summer;3;5;179;3;0;0;0;0;0;30;275089;2
+719;"dental consultation ";25;overweight;6;summer;3;5;291;1;1;1;0;1;0;40;275089;2
+720;Diseases of the musculoskeletal system and connective tissue;19;healthy;6;summer;1;2;179;3;0;0;0;0;0;30;275089;3
+721;"laboratory examination ";28;overweight;6;summer;1;2;118;1;0;0;0;0;0;37;275089;3
+722;"patient follow-up ";21;healthy;6;summer;1;5;233;2;1;1;0;8;0;31;275089;8
+723;Diseases of the ear and mastoid process;28;overweight;6;summer;1;6;118;1;0;0;0;0;0;37;275089;2
+724;Diseases of the respiratory system;28;overweight;6;summer;1;4;118;1;0;0;0;0;0;37;275089;3
+725;"patient follow-up ";21;healthy;6;summer;1;4;233;2;1;1;0;8;0;31;275089;3
+726;"unjustified absence ";38;obese;7;summer;1;4;235;1;1;1;0;0;0;43;264604;4
+727;Injury, poisoning and certain other consequences of external causes;21;healthy;7;summer;1;6;233;2;1;1;0;8;0;31;264604;2
+728;Diseases of the nervous system;22;healthy;7;summer;1;2;228;1;2;0;0;1;0;58;264604;8
+729;"dental consultation ";28;overweight;7;summer;1;2;118;1;0;0;0;0;0;37;264604;4
+730;Diseases of the nervous system;22;healthy;7;summer;1;3;228;1;2;0;0;1;0;58;264604;120
+731;"patient follow-up ";25;overweight;7;summer;1;3;189;1;2;0;0;2;0;33;264604;16
+732;"medical consultation ";28;overweight;7;summer;1;4;118;1;0;0;0;0;0;37;264604;2
+733;"patient follow-up ";27;overweight;7;summer;1;4;361;1;1;1;0;4;0;28;264604;8
+734;"patient follow-up ";24;healthy;7;summer;1;4;225;1;1;0;0;2;0;28;264604;8
+735;Diseases of the musculoskeletal system and connective tissue;25;overweight;7;summer;1;2;369;1;3;1;0;0;0;31;264604;80
+736;Diseases of the genitourinary system;30;overweight;7;summer;1;3;289;1;2;1;0;1;0;33;264604;8
+737;Diseases of the digestive system;29;overweight;7;summer;1;3;235;3;1;0;0;1;0;37;264604;4
+738;Unkown;34;obese;0;unknown;1;3;118;1;1;1;0;8;0;40;271219;0
+739;Unkown;35;obese;0;unknown;2;4;231;1;2;1;0;2;0;39;271219;0
+740;Unkown;25;overweight;0;unknown;3;6;179;1;1;0;0;1;0;53;271219;0
